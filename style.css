@@ -1,12 +1,12 @@
 body{
-    background-color:rgb(226, 216, 216);
+    background-color:rgb(216, 217, 226));
     margin: 0;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
 
 header{
-    background-color: rgba(40, 40, 41, 0.6);
+    background-color: rgba(82, 102, 116, 0.6);
     width: 63%;
     display: inline-block;
     height: 5em;
@@ -83,7 +83,7 @@ header nav li a:hover{
 }
 
 #about, #contact{
-    background-color: rgba(41, 42, 43, 0.6);
+    background-color: rgba(95, 108, 121, 0.6);
     width: 60%;
     margin: 20px auto;
     padding: 35px;
