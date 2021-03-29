@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(216, 217, 226));
+    background-color:rgb(216, 217, 226);
     margin: 0;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
@@ -48,8 +48,8 @@ header nav li a{
 }
 
 header nav li a:hover{
-    color: rgb(243, 201, 17);
-    text-shadow: 4px 4px 4px rgb(49, 27, 2);
+    color: rgb(135, 204, 236);
+    transition: color 0.45s;
 }
 
 .fotos{
@@ -79,7 +79,8 @@ header nav li a:hover{
 }
 
 .fotos-principal:hover{
-    opacity: 85%;
+    opacity: 81%;
+    transition: opacity 0.65s;
 }
 
 #about, #contact{
